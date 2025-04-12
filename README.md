@@ -22,9 +22,9 @@ Easily handle categories, suppliers, products, and generate invoice summaries wi
 
 ## 📸 Screenshots
 
-![Create Invoice Screenshot](screenshots/create-invoice.png)
-![Invoice List Page](screenshots/invoice-list.png)
-![Invoice Detail Page](screenshots/invoice-detail.png)
+![Create Invoice Screenshot](assets/screenshots/create-invoice.png)
+![Invoice List Page](assets/screenshots/invoice-list.png)
+![Invoice Detail Page](assets/screenshots/invoice-detail.png)
 
 ## 📦 Installation
 
